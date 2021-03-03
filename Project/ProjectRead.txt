@@ -1,0 +1,23 @@
+Project
+1, The 20*12 Matrix is the score for the class row is the student and column is the term of exam
+2, Have set up a function check list for checking the name and the number.(order form)
+3,An graph is generate in the end of the programme if you choose "yes", it is a for the end of the year
+4,The ProjectTest are use to remind me, build up a model or checking the function in the project
+Test1:for checking function=AverageMark[]
+Test2:Test the function of function=NameSearch[], And also trying to remind the if condition in Matlab
+Test3:To modeling to take one part from the Matrix.(Which is use to show the score for each term in individual student)
+Test4:Trying to model:Using for loop the print out the result(With function use)
+Test5:By using A 3*3 Matrix, Using sum of the row and put it into a new array
+Test6:Trying the function=Grade[]
+
+NameList:
+1~5:"Amirah" "Mary" "Wendy" "Leona" "Addie"
+6~10:"Iris" "Tianna" "Kelly" "Jessie" "Yvone"
+11~15: "Jack" "Ben" "JoJo" "Luke" "Mike" 
+16~20: "Tom" "Ray" "Eric" "Paul" "Mark"
+
+The Project are form by 3 part
+PartA:Using random to generate the whole class score(with term mean and total mean)
+PartB:Student individual score with plot graph
+PartC:The Student Ranking
+-The End-
